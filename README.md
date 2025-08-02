@@ -1,0 +1,1 @@
+Removed Boilerplate Code geenrated when creating th react project
