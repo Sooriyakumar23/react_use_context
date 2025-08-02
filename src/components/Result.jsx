@@ -1,3 +1,11 @@
+import { useState } from "react";
+
 export default function Result() {
-  return <h2>Result Page</h2>;
+  const [name, setName] = useState("Alice"); // TODO:
+
+  return (
+    <div style={{ marginTop: "20px", color: "red", fontSize: "50px" }}>
+      {name}
+    </div>
+  );
 }
