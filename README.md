@@ -1,1 +1,1 @@
-Removed Boilerplate Code geenrated when creating th react project
+Removed Boilerplate Code generated when creating th react project
